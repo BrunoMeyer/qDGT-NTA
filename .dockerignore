@@ -1,0 +1,7 @@
+.git
+figures
+__pycache__
+*.pdf
+qDGT-NTA
+.pytest_cache
+.ipynb_checkpoints
